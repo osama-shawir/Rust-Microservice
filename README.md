@@ -47,6 +47,10 @@ The SAM deployment process creates a new Lambda function in your AWS account. Th
 
 ![alt text](image-1.png)
 
+It also creates a dynamoDB table as specified by the serverless application model template.
+
+![alt text](image-2.png)
+
 After following the steps above, you should have a Lambda function deployed in your AWS account as follows:
 
 ![alt text](image.png)
